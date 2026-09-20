@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rick-fairlamb.co.uk	TRUE	/	FALSE	1999999999	PHPSESSID	552341hkv9d6vfr3g6s4ri7u84
+
